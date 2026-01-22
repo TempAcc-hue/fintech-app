@@ -1,4 +1,3 @@
-Feature 2 work by C
-abc
-xyz
-
+Name: Sorya Sivaramakrishnan
+Age: 20
+College: Sardar Patel Insitiute of Technology
