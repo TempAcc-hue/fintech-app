@@ -1,1 +1,2 @@
+New feature added by A
 Feature 3 worked on by A
